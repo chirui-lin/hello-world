@@ -1,3 +1,4 @@
 # hello-world
 just another repository
-printf("hello world") ; 
+
+ hi  i am jack 
